@@ -1,0 +1,55 @@
+// 主题颜色
+$theme_color: #0ca49b;
+//字体相关
+$theme-fontColor: #fff;
+$theme_fontSize: 14px;
+$color_high_light: #cc4165;
+
+// el-dialog
+//头部
+$dialog_header: $theme_color;
+//主体
+$dialog_body: #fff;
+//主体
+$dialog_footer: #fff;
+$dialog_font: #606266;
+
+// dialogBox
+// 标题栏背景色
+$dialogBox_header_bg: $theme_color;
+// 标题文字大小
+$dialogBox_title: $theme_fontSize;
+// 标题文字颜色
+$dialogBox_title_color: $theme-fontColor;
+// 关闭按钮颜色
+$dialogBox_close_color: $theme-fontColor;
+// 内容背景色
+$dialogBox_body_color: #fff;
+
+// el-table
+$table_bg: #fff;
+// el-table
+$table_th: rgba($theme_color, 0.8);
+// 内边框
+$table_border_td: #ebeef5;
+//外边框
+$table_border: #ccc;
+// 表格字体颜色
+$table_font: #606266;
+// 表格悬浮 单行背景色
+$table_hover: rgba($theme_color, 0.4);
+// 表格当前行颜色
+$table_current: rgba($theme_color, 0.65);
+
+// 边框颜色-明亮
+$border_light: #00ffff;
+
+// el-input背景颜色
+$input_bg: #fff;
+// el-input背景颜色
+$input_font: #606266;
+// el-input边框颜色
+$input_border: #e4e7ed;
+// el-input禁用背景颜色
+$input_bg_disabled: #f5f7fa;
+

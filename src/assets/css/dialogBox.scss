@@ -1,0 +1,22 @@
+.dialogBox {
+  // 标题栏
+  &__header {
+    background: $dialogBox_header_bg;
+  }
+  // 关闭按钮x 颜色
+  &__close {
+    color: $dialogBox_close_color;
+  }
+  // 标题
+  &__title {
+    color: $dialogBox_title_color;
+    font-size: $dialogBox_title;
+  }
+  &__title::before {
+    background-color: $dialogBox_title_color;
+  }
+  // 内容
+  &__body {
+    background: $dialogBox_body_color;
+  }
+}
