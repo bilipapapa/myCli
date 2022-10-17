@@ -3,13 +3,6 @@
     <Header
       :title="title"
       :isMenu="false"
-      :titleStyle="{
-        fontSize: '18px',
-        fontFamily: 'FZXiQian - M15S',
-        fontWeight: '400',
-        color: '#0CA49B',
-        paddingLeft: '20px'
-      }"
     ></Header>
     <main class="main">
       <Side-Menu></Side-Menu>

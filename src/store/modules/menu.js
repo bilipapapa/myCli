@@ -2,19 +2,6 @@
 const state = {
   menuInfo: [
     { menuName: '主页', menuPath: '/index', icon: '' }
-    // { menuName: '数据维护', menuPath: '/data_maintaince', icon: '' }
-    // {
-    //   menuName: '测试菜单',
-    //   menuPath: '/test',
-    //   icon: '',
-    //   children: [
-    //     {
-    //       menuName: '测试菜单1',
-    //       menuPath: '/test123',
-    //       icon: ''
-    //     }
-    //   ]
-    // }
   ]
 }
 
